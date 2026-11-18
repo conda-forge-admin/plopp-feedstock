@@ -1,6 +1,7 @@
 context:
   name: plopp
   version: "26.11.0"
+  python_min: "3.12"
 
 package:
   name: ${{ name }}
